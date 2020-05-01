@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/max/Documents/cpp/cmake-project-template/build/src",
+  "command": "E:\\mingw64\\bin\\g++.exe   @CMakeFiles/divider.dir/includes_CXX.rsp  -std=c++11 -O3 -g   -std=gnu++11 -o CMakeFiles\\divider.dir\\main.cpp.obj -c C:\\Users\\max\\Documents\\cpp\\cmake-project-template\\src\\main.cpp",
+  "file": "C:/Users/max/Documents/cpp/cmake-project-template/src/main.cpp"
+},
+{
+  "directory": "C:/Users/max/Documents/cpp/cmake-project-template/build/src/division",
+  "command": "E:\\mingw64\\bin\\g++.exe   @CMakeFiles/division.dir/includes_CXX.rsp  -std=c++11 -O3 -g   -std=gnu++11 -o CMakeFiles\\division.dir\\division.cpp.obj -c C:\\Users\\max\\Documents\\cpp\\cmake-project-template\\src\\division\\division.cpp",
+  "file": "C:/Users/max/Documents/cpp/cmake-project-template/src/division/division.cpp"
+},
+{
+  "directory": "C:/Users/max/Documents/cpp/cmake-project-template/build/src/lista",
+  "command": "E:\\mingw64\\bin\\g++.exe   @CMakeFiles/lista.dir/includes_CXX.rsp  -std=c++11 -O3 -g   -std=gnu++11 -o CMakeFiles\\lista.dir\\Lista.cpp.obj -c C:\\Users\\max\\Documents\\cpp\\cmake-project-template\\src\\lista\\Lista.cpp",
+  "file": "C:/Users/max/Documents/cpp/cmake-project-template/src/lista/Lista.cpp"
+},
+{
+  "directory": "C:/Users/max/Documents/cpp/cmake-project-template/build/src/vehiculo",
+  "command": "E:\\mingw64\\bin\\g++.exe   @CMakeFiles/vehiculo.dir/includes_CXX.rsp  -std=c++11 -O3 -g   -std=gnu++11 -o CMakeFiles\\vehiculo.dir\\Vehiculo.cpp.obj -c C:\\Users\\max\\Documents\\cpp\\cmake-project-template\\src\\vehiculo\\Vehiculo.cpp",
+  "file": "C:/Users/max/Documents/cpp/cmake-project-template/src/vehiculo/Vehiculo.cpp"
+}
+]
